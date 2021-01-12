@@ -1,16 +1,13 @@
-### Hi there 👋
+# Programador y sysadmin.
 
-<!--
-**torswq/torswq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy Aitor, programador de C, Python y PHP. Estoy interesado en el desarrollo web, y la seguridad informática.
 
-Here are some ideas to get you started:
+## Proyectos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - [PInjection](https://www.github.com/torswq/PInjection): Inserta código objeto de Python en la memoria de un proceso ejecutable.
+  - [Keycore](https://www.github.com/torswq/keycore): Keylogger hecho en Python.
+  - [Empanada exchange](https://www.github.com/torswq/empanada-exchange) Plugin de wordpress (PHP) para obtener el valor actual del dolar.
+  
+### Certificaciónes
+* Udemy
+  - [PHP & MySQL - Certification for beginners](https://www.udemy.com/course/php-mysql-certification-course-for-beginners)
