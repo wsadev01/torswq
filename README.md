@@ -1,6 +1,6 @@
 # Programador y sysadmin.
 
-Hola, soy Aitor, programador de C, Python y PHP. Estoy interesado en el desarrollo web, y la seguridad informática.
+Hola, soy Aitor, programador de C, Python y PHP. Estoy interesado en el networking, desarrollo web y la seguridad informática. 
 
 ## Proyectos
 
