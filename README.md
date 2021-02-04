@@ -1,13 +1,38 @@
-# Programador y sysadmin.
+# Web developer
 
-Hola, soy Aitor, programador de C, Python y PHP. Estoy interesado en el networking, desarrollo web y la seguridad informática. 
+Hi, i am Aitor, a web-developer and sometimes a system administrator. I am a meticulous and perfectionist person, who loves to keep things simple and pragmatic.
 
-## Proyectos
+## Projects
 
-  - [PInjection](https://www.github.com/torswq/PInjection): Inserta código objeto de Python en la memoria de un proceso ejecutable.
-  - [Keycore](https://www.github.com/torswq/keycore): Keylogger hecho en Python.
-  - [Empanada exchange](https://www.github.com/torswq/empanada-exchange) Plugin de wordpress (PHP) para obtener el valor actual del dolar.
-  
+  - [PInjection](https://www.github.com/torswq/PInjection): Inject raw bytecode into the memory of a running process.
+  - [Keycore](https://www.github.com/torswq/keycore): Keylogger engine for python
+  - [Empanada exchange](https://www.github.com/torswq/empanada-exchange) Wordpress plugin (PHP) to get USD-ARS exchange rate.
+ 
+## My skills:
+<p align="">
+<img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
+<img width="8.5%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" >
+<img width="8.5%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png">
+<img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png">
+<img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
+<img width="9.6%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png"></p>
+
+## In progress
+<p align=''>
+<img width="19%" height= "50%" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/dart_button_icon_151933.png">
+<img width="22%" height= "50%" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/flutter_button_icon_151957.png"></p>
+<br>
+
+## Operative systems
+--------------------
+<p align=''>
+<img width="7.85%" height="50%" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png">
+<img width="8.5%" height="50%" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/manjarowelcome_94304.png">
+<img width="8.5%" height="50%" src="https://cdn.icon-icons.com/icons2/70/PNG/512/ubuntu_14143.png">
+<img width="8.5%" height="50%" src="https://cdn.icon-icons.com/icons2/159/PNG/256/logo_linux_mint_22361.png">
+<img width="8.5%" height="50%" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/distributorlogodebian_93598.png"></p>
+<br>
+
 ### Certificaciónes
 * Udemy
   - [PHP & MySQL - Certification for beginners](https://www.udemy.com/course/php-mysql-certification-course-for-beginners)
