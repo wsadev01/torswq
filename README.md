@@ -23,16 +23,6 @@ Hi, i am Aitor, a web-developer and sometimes a system administrator. I am a met
 <img width="22%" height= "50%" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/flutter_button_icon_151957.png"></p>
 <br>
 
-## Operative systems
---------------------
-<p align=''>
-<img width="7.85%" height="50%" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png">
-<img width="8.5%" height="50%" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/manjarowelcome_94304.png">
-<img width="8.5%" height="50%" src="https://cdn.icon-icons.com/icons2/70/PNG/512/ubuntu_14143.png">
-<img width="8.5%" height="50%" src="https://cdn.icon-icons.com/icons2/159/PNG/256/logo_linux_mint_22361.png">
-<img width="8.5%" height="50%" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/distributorlogodebian_93598.png"></p>
-<br>
-
 ### Certificaciónes
 * Udemy
   - [PHP & MySQL - Certification for beginners](https://www.udemy.com/course/php-mysql-certification-course-for-beginners)
