@@ -19,10 +19,9 @@ Hi, i am Aitor, a web-developer and sometimes a system administrator. I am a met
 
 ## In progress
 <p align=''>
-<img width="19%" height= "50%" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/dart_button_icon_151933.png">
-<img width="22%" height= "50%" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/flutter_button_icon_151957.png"></p>
+<img width="19%" height= "50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png">
 <br>
 
-### Certificaciónes
+### Courses
 * Udemy
   - [PHP & MySQL - Certification for beginners](https://www.udemy.com/course/php-mysql-certification-course-for-beginners)
