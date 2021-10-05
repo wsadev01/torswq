@@ -6,7 +6,7 @@ Hi, i am Aitor, a web-developer and cibersecurity enthusiast. I love to develop 
 
   - [PInjection](https://www.github.com/torswq/PInjection): Inject raw Python bytecode into the memory of a running process.
   - [Keycore](https://www.github.com/torswq/keycore): Simple keylogger engine for python
-  - [Empanada exchange](https://www.github.com/torswq/empanada-exchange) Wordpress plugin (PHP) to get USD-ARS exchange rate.
+  - [Empanada exchange](https://www.github.com/torswq/empanada-exchange) Wordpress plugin (PHP) to get USD-ARS exchange rate from dolarsi.com.
  
 ## My skills:
 <p align="">
@@ -16,7 +16,3 @@ Hi, i am Aitor, a web-developer and cibersecurity enthusiast. I love to develop 
 <img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png">
 <img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
 <img width="10.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png"></p>
-
-### Courses
-* Udemy
-  - [PHP & MySQL - Certification for beginners](https://www.udemy.com/course/php-mysql-certification-course-for-beginners)
