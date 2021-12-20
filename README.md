@@ -1,4 +1,6 @@
-<h1 align="center"> Greetings, I am Aitor </h1>
+
+<h1 align="center">Hola! soy Aitor</h1>
+<p align="center">Self-thaught, programmer, cibersecurity enthusiast & curious</p>
 <hr/>
 
 <div align="center">
@@ -33,5 +35,3 @@
   <img width="8.5%" height= "50%" src="https://appstimes.in/wp-content/uploads/2015/05/dart_icon.png">
   <img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png">
 </div>
-
-<h4 align="center">N.O.S</h4>
