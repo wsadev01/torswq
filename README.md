@@ -23,12 +23,15 @@
  
 <h2 align="center">Skills</h2>
 <div align="center">
-  <img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
   <img width="8.5%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" >
   <img width="8.5%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png">
-  <img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png">
   <img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
+  <img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png">
+  <img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png">
+  <img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
   <img width="10.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png">
+  <img width="8.5%" height= "50%" src="https://appstimes.in/wp-content/uploads/2015/05/dart_icon.png">
+  <img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png">
 </div>
 
 <h4 align="center">N.O.S</h4>
