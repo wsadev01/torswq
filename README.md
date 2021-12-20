@@ -19,9 +19,6 @@
   <a href="https://github.com/torswq/PInjection" target="_blank">
     <img alt="Python Injection" width=200 src=https://github.com/torswq/PInjection/blob/8dd6423228bd2d87961dba3d5b8b74cd3473e8ca/isologotipo/pinjection-iso-gs-1-alpha.png>
   </a>
-  <a href="https://github.com/torswq/empanada-exchange" target="_blank">
-    <img alt="Empanada Exchange" width=200 src="https://raw.githubusercontent.com/torswq/empanada-exchange/master/assets/empanada_exchange_iso_rounded.png">
-  </a>
 </div>
  
 <h2 align="center">Skills</h2>
