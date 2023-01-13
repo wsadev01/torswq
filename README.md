@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola! soy Aitor</h1>
-<p align="center">Self-thaught, programmer, cibersecurity enthusiast & curious</p>
+<p align="center">Self-thaught, programmer, cibersecurity enthusiast & a curious person</p>
 <hr/>
 
 <div align="center">
