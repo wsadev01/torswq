@@ -4,6 +4,9 @@
 <h1 align="center">:pencil2: :computer: :unlock: :mag_right: :sparkles:</h1>
 <hr/>
 
+## Favorites activities
+[(Li)Chess](https://lichess.org/@/torswq) ♟️ & hacking 🕶️ <3
+  
 ## Web stack
 I primarily use [MERN](https://www.mongodb.com/mern-stack) because I generally work in a [Rapid prototyping](https://en.wikipedia.org/wiki/Software_prototyping#Throwaway_prototyping) environment but I also work with Django/React and prefer [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)-like methodology/model  over rapid/fast prototyping. For UI design I mostly I use MUI or Chakra.
   
