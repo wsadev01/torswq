@@ -67,8 +67,8 @@ I also know how to read blocks of Assembler x64 (AT&T and Intel syntax)
 </div>
 
 <h1 id="gpg-key">GPG key</h1>
-```
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGVehj8BEADcy8qIDn3HF917wjwCCT40xgVwSRJeYDZnKFZmQfs0euw4mdvT
