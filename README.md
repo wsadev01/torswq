@@ -5,11 +5,7 @@
 <hr/>
 
 ## Favorites activities
-[(Li)Chess](https://lichess.org/@/torswq) ♟️ & hacking 🕶️ <3
-  
-## Web stack
-I primarily use [MERN](https://www.mongodb.com/mern-stack) because I generally work in a [Rapid prototyping](https://en.wikipedia.org/wiki/Software_prototyping#Throwaway_prototyping) environment but I also work with Django/React and prefer [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)-like methodology/model  over rapid/fast prototyping. For UI design I mostly I use MUI or Chakra.
-  
+
 #### Front-end
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
