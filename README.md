@@ -4,7 +4,7 @@
 <h1 align="center">:pencil2: :computer: :unlock: :mag_right: :sparkles:</h1>
 <hr/>
 
-## Favorites activities
+## Technologies
 
 #### Front-end
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
@@ -31,9 +31,8 @@ I use [Arch linux](https://archlinux.org/) as my main OS and these tools for my 
 ![Thunderbird](https://img.shields.io/static/v1?style=for-the-badge&message=Thunderbird&color=0A84FF&logo=Thunderbird&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![htop](https://img.shields.io/static/v1?style=for-the-badge&message=htop&color=009020&logo=htop&logoColor=FFFFFF&label=)
-## Other programming languages and frameworks
-I also know how to read blocks of Assembler x64 (AT&T and Intel syntax)
-  
+
+## Other 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
 ![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
