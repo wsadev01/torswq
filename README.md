@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi :wave: , I am Aitor</h1>
-<p align="center">Self-thaught, hacker wannabe, Linux administrator (Soon LPI certified), arch-linux enjoyer, a nerd :green_book:, and a hiper-curious person</p>
+<p align="center">Self-thaught MERN programmer</p>
 <h1 align="center">:pencil2: :computer: :unlock: :mag_right: :sparkles:</h1>
 <hr/>
 
