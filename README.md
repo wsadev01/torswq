@@ -1,6 +1,14 @@
 
 <h1 align="center">Hi :wave: , I am Aitor</h1>
-<p align="center">Self-thaught MERN programmer. Problem solver</p>
+<p align="center">Self-thaught, problem-solver, fast-learner.</p>
+<p>Despite my passion and love for techincal knowledge (Proud nerd :nerd_face:). I can communicate fluently with any client, for covering technical aspects of a project, or unraveling client needs.</p>
+
+## Soft skills
+1. :speaking_head: Communication (Active listener, non-verbal communication, good presence)
+2. :muscle: Leadership (Not that I actively look for this, but have no problem doing it)
+3. 🧑‍🤝‍🧑 Teamwork coordination (A little but bold, but never taking things far)
+4. ↪️ (My most proficient one) High adaptability.
+5. ⛑️ Fast response to crisis
 <hr/>
 
 ## Technologies
@@ -34,7 +42,9 @@ I use [Arch linux](https://archlinux.org/) as my main OS and these tools for my 
 ## Other 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
-![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
 ![Bash](https://img.shields.io/static/v1?style=for-the-badge&message=Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
+
+- Assembler (x64)
+- Cibersecurity knowledge
 
 
