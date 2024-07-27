@@ -6,9 +6,8 @@
 ## Soft skills
 1. :speaking_head: Communication (Active listener, non-verbal communication, good presence)
 2. :muscle: Leadership (Not that I actively look for this, but have no problem doing it)
-3. 🧑‍🤝‍🧑 Teamwork coordination (A little but bold, but never taking things far)
-4. ↪️ (My most proficient one) High adaptability.
-5. ⛑️ Fast response to crisis
+3. 🧑‍🤝‍🧑 Teamwork coordination (A little bit bold, but never taking things far)
+4. ⛑️ Fast response to crisis
 <hr/>
 
 ## Technologies
